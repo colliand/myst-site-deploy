@@ -1,5 +1,8 @@
 # Landing Page
 
-:::{info}
+:::{tip}
 Welcome to the site!
+
 :::
+
+## Next level
