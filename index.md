@@ -5,4 +5,3 @@ Welcome to the site!
 
 :::
 
-## Next level
