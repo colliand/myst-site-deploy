@@ -2,6 +2,5 @@
 
 :::{tip}
 Welcome to the site!
-
 :::
 
